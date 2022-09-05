@@ -1,4 +1,4 @@
-<template functional>
+<template>
   <component
     :is="props.tag"
     :ref="data.ref"

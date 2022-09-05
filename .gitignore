@@ -10,6 +10,7 @@ report.*.json
 
 # Runtime data
 pids
+.history/
 *.pid
 *.seed
 *.pid.lock
